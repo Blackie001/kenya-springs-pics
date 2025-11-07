@@ -20,4 +20,7 @@ To use them:
 
 Example:
 ```html
-<img src="https://raw.githubusercontent.com/Blackie001/kenya-springs-pics/main/gallery1.jpg" alt="Kenya Springs Bottle">
+"https://raw.githubusercontent.com/Blackie001/kenya-springs-pics/main/back09.jpg",
+  "https://raw.githubusercontent.com/Blackie001/kenya-springs-pics/main/cc02.jpg",
+  "https://raw.githubusercontent.com/Blackie001/kenya-springs-pics/main/cc03.jpg",
+  "https://raw.githubusercontent.com/Blackie001/kenya-springs-pics/main/cc04.jpg",
